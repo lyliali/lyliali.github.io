@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    
+}
+
+.buzzword {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.buzzword:hover {
+    font-style: italic;
+}
