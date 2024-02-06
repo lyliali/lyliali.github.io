@@ -8,7 +8,36 @@ html {
 }
 
 body {
-    
+    width: 75%;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.skills-subsection {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.location-date {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    height: fit-content;
+}
+
+.location {
+    color: gray;
+}
+
+.date {
+    text-align: right;
+    color: gray;
+}
+
+li {
+    text-align: justify;
 }
 
 .buzzword {
