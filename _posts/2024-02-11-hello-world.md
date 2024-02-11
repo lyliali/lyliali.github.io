@@ -26,3 +26,10 @@ permalink: /:title
 
 ### ok finally
 * https://www.youtube.com/watch?v=pxua_1vyFck&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=4
+* i guess that was worth it?
+* i think the edible just hit LMAO
+* i learned that github pages does not support jekyll projects in subdirectories
+* moved all of my jekyll files into a top-level directory that already existed, using `jekyll new . --force`
+* bootstrapped my blog!
+* will have to circle back to the theme later and change it cos its ugly
+* back to exploring mongodb
