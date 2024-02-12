@@ -33,3 +33,8 @@ permalink: /:title
 * bootstrapped my blog!
 * will have to circle back to the theme later and change it cos its ugly
 * back to exploring mongodb
+* first foray: set up an atlas instance(?) free tier and created a sample database
+* set up a playground in vscode
+* installed mongosh in my terminal
+* not really understanding how to learn the syntax for interacting with the database in javascript and in mongosh.
+* in search of a good tutorial to learn from that's not the documentation
