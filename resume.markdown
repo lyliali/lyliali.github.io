@@ -4,12 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-# Lylia Li
-
-New York, NY
-lyliax@gmail.com
-[Github](https://github.com/lyliali)
-[LinkedIn](https://www.linkedin.com/in/lyliali/)
+New York, NY - lyliax@gmail.com - [Github](https://github.com/lyliali) - [LinkedIn](https://www.linkedin.com/in/lyliali/)
 
 ## Summary
 * Software engineer with 5 years of experience in DevOps space and a proven track record of redressing development environments with siloed code and lack of processes and standardization.
