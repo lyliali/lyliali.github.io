@@ -9,7 +9,7 @@ permalink: /:title
 * My goal is to start a devlog to track my upskilling progress and also get my github commit history up.
 * I decided to set up my blog with jekyll because it seemed like a fast and easy way to bootstrap my website, so I can get straight to writing entries and tracking my thought progress.
 
-### "welcome to giraffe academy, my name's mike"
+# "welcome to giraffe academy, my name's mike"
 * First step to bootstrapping myself with jekyll: Installing it.
 * Like a good YouTube University alumn, I searched up a [youtube tutorial](https://www.youtube.com/watch?v=WhrU9m82Wm8&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=3) to follow.
 * Tried installing jekyll with `gem install jekyll bundler` and failed multiple times
@@ -22,7 +22,7 @@ permalink: /:title
 * That still wasn't enough to change the system version of ruby and my jekyll install was still failing
 * Finally, issue was resolved by adding `.rbenv/shims` to my path: `export PATH="$HOME/.rbenv/shims:$PATH"`
 
-### why did that take so long
+# why did that take so long
 * The mantra of every software developer. Even the simple tasks can throw you for loops!
 * The [video I referenced](https://www.youtube.com/watch?v=pxua_1vyFck&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=4) to learn how to create a new website with jekyll.
 * I learned that GitHub pages does not support jekyll projects in subdirectories, which was a problem for me because I created my new jekyll project in a subdirectory of a GitHub pages repo I had made previous to this writing.
@@ -30,7 +30,7 @@ permalink: /:title
 * Bootstrapped my blog!
 * Will have to circle back to the theme later and see if there are other appealing aesthetic choices.
 
-### back to exploring MongoDB
+# back to exploring MongoDB
 * Another interest I have is learning MongoDB as it is a common backend in the front-end web stack.
 * For my first foray, I set up a sample database in Atlas free tier
 * Set up a playground in vscode
