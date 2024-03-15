@@ -3,7 +3,7 @@ layout: post
 title:  "Change by Design"
 date:   2023-12-21 15:30:21 -0500
 category: reading
-permalink: /:category/:title
+permalink: /:title
 ---
 
 # Change By Design

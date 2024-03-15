@@ -3,7 +3,7 @@ layout: post
 title:  "Master of None"
 date:   2023-12-15 15:30:21 -0500
 category: reading
-permalink: /:categories/:title
+permalink: /:title
 ---
 
 # Master of None
