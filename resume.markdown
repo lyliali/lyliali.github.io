@@ -7,9 +7,9 @@ permalink: /resume/
 New York, NY - lyliax@gmail.com - [Github](https://github.com/lyliali) - [LinkedIn](https://www.linkedin.com/in/lyliali/)
 
 ## Summary
-* Software engineer with 5 years of experience in DevOps space and a proven track record of redressing development environments with siloed code and lack of processes and standardization.
-* Strengths include diplomacy, inter-departmental collaboration, and design thinking principles.
-* Experienced in containerization, Docker, automation, unit/integration testing, RESTful applications, and CI/CD pipelines.
+* I have five years of experience working at InterSystems, a privately held database company that provides the back-end to the most widely used EMR system in the American healthcare industry.
+* I managed an internal tools team with a start-up-like environment that primarily focused on highly technical process improvement projects involving multiple departments.
+* I took a year off to pursue my creative interests and am now looking for roles that will allow me to exercise my skills in project management, diplomacy, and organization.
 
 ## Skills
 
@@ -17,15 +17,13 @@ New York, NY - lyliax@gmail.com - [Github](https://github.com/lyliali) - [Linked
 * JavaScript
 * Java
 * Cache ObjectScript (A flexible, proprietary programming language that can be used for object-oriented programming and allows for embedded SQL queries and manipulating data in a global database.)
-
-### Frameworks
-* REST
-* SOAP
-
-### Database
+* Python
+* HTML/CSS
+* REST APIs
+* Bash
+* Docker
+* git
 * SQL
-* NoSQL
-* MongoDB
 
 ### DevOps
 * Docker
@@ -36,32 +34,36 @@ New York, NY - lyliax@gmail.com - [Github](https://github.com/lyliali) - [Linked
 
 ## Experience
 
-### Automation and Tools Manager
+### Product Manager, Automation
 #### InterSystems Corporation
 Cambridge, MA
 Oct 2022 - April 2023
-* Managed a team of 4 engineers to create new tools, techniques, and processes for the Quality Assurance department (~75 people)
-* Project managed collaboration with Tech Services department to set up an in-house private cloud using VMWare vCenter
-* Oversaw development of an application to deploy and manage VMs within that cloud, replacing manual VM deployments with an automated process
-* Expanded FAST automation infrastructure to facilitate testing product deployments in Docker containers
-* Leadership philosophy: Encourage creativity, innovation, and individual ownership, empowering direct reports to create solutions to business and technical problems
+* Led team of 4 engineers responsible for creating internal products and tools to support the QA department (~75 people)
+* Planned, managed, and executed on multiple concurrent short-term business projects and long-term process improvement projects
+* Ensured deadlines were met through conflict mediation, cross-departmental coordination, and by serving as a liaison between engineering and business teams
+* Partnered closely with Quality Assurance, Release Engineering, and Technical Services to establish a VLAN for automated testing
+* Defined QA’s networking needs and negotiated VLAN’s security policy with a Security executive
+* Built, repaired, and strengthened relationships with QA managers in a longstanding (~6 years) pattern of conflict with the Automation team
+* Formalized process for triaging feature requests to reduce friction with QA
+* Reported weekly to Director of Release Engineering to communicate project status and account for each team member’s time
 
-### Senior Automation Engineer
+### Project Manager, Automation
 #### InterSystems Corporation
 Cambridge, MA
 May 2021 - Oct 2022
-* Led a joint effort between Quality Assurance and Release Engineering to integrate a manual <span class="buzzword">JDBC</span> test suite (1000 test cases) into a <span class="buzzword">continuous integration</span> pipeline
-* Led weekly meetings, defined goals and action items, synthesized QA’s environment requirements with RE’s requirements for compatibility with existing build infrastructure, and wrote the automation for Windows and Linux
-* Worked on breaking down a monolithic build pipeline into smaller, standalone components
+* Led collaboration with QA and RE to automate regression testing in a CI/CD pipeline
+* Synthesized requirements, defined deliverables and milestones, and documented progress for visibility
+* Led weekly check-ins to monitor progress, clarify objectives, guard against scope creep, and ensure clear communication
+* Received promotion after demonstrating superior organization and communication skills
 
-### Quality Assurance Engineer (Automation)
+### Automation Engineer
 #### InterSystems Corporation
 Cambridge, MA
 July 2018 - May 2021
-* Responsible for discovering, reporting, and tracking bugs, writing unit and integration tests, and ensuring timely, reliable releases for the IRIS data platform
-* Developer on FAST, an in-house RESTful application that had the potential to unify automation process for test execution across QA
-* Automated dozens of previously manual, siloed regression tests (mostly JUnit) using FAST
-* Created infrastructure-as-code automation to instantiate five databases (MySQL, MSSQL, DB2, Informix, Oracle) in Docker containers with test data loaded, replacing static VM servers
+* Self-taught proprietary programming language (ObjectScript)
+* Designed, executed, and automated regression tests to certify product releases
+* Conducted first UX surveys of an internal tool to shed light on QA’s coding practices
+* Received promotion after demonstrating superior competency using internal RESTful automation framework
 
 ## Education
 ### B.A. Computer Science

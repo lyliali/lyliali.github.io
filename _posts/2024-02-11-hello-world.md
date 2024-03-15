@@ -2,8 +2,8 @@
 layout: post
 title:  "hello world"
 date:   2024-02-11 15:30:21 -0500
-categories: 
-permalink: /:title
+category: dev
+permalink: /:category/:title
 ---
 # hello world!
 * My goal is to start a devlog to track my upskilling progress and also get my github commit history up.
