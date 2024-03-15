@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "hello world"
+title:  "Hello World"
 date:   2024-02-11 15:30:21 -0500
 category: dev
 permalink: /:category/:title
