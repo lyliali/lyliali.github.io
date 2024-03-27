@@ -6,8 +6,7 @@ category: reading
 permalink: /:title
 ---
 
-# Master of None
-## Clifford Hudson
+Below are my notes from reading _Master of None_ by Clifford Hudson.
 
 * Leadership is all about influence (52)
 * It’s based on setting clear objectives, delegating authority, trusting staff, and inspiring others

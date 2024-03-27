@@ -6,8 +6,7 @@ category: reading
 permalink: /:title
 ---
 
-# Change By Design
-## Tim Brown
+Below are my notes from reading _Change by Design_ by Tim Brown.
 
 * A purely technocentric view of innovation is not sustainable
 * We need an approach to innovation that can be integrated into all aspects of business and society
