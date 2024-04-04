@@ -6,7 +6,7 @@ category: dev
 permalink: /:title
 ---
 
-I stumbled upon an [https://knightcolumbia.org/blog/an-illustrated-field-guide-to-social-media](Illustrated Field Guide to Social Media) by [https://ethanzuckerman.com/](Ethan Zuckerman) (Williams alum btw) and Chand Rajendra-Nicolucci through my explorations on [https://alltechishuman.org/](All Tech is Human) and [https://newpublic.org/](New Public).
+I stumbled upon an [An Illustrated Field Guide to Social Media](https://knightcolumbia.org/blog/an-illustrated-field-guide-to-social-media) by [Ethan Zuckerman](https://ethanzuckerman.com/) (Williams alum btw) and Chand Rajendra-Nicolucci through my explorations on [All Tech is Human](https://alltechishuman.org/) and [New_Public](https://newpublic.org/).
 
 Below are my notes!
 
@@ -40,9 +40,6 @@ Below are my notes!
 - Front Porch Forum: Proactive moderation, slower publishing model (posts published once per day). Generally results in more wholsome community, but limits engagement.
 - Neighbors
 - NABUR
-
-**Bottlenecks**
-- 
 
 # Decentralized Logic
 
